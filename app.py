@@ -122,7 +122,7 @@ st.markdown("""
 <div class="hero">
     <h1>NBA FAIR-MARKET VALUE DETECTOR</h1>
     <div class="tag">A salary prediction model that flags the league's most over- and underpaid contracts heading into the 2025-26 season. Trained on 2024-25 production data with XGBoost.</div>
-    <div class="meta">IEOR 142A · Spring 2026 · Cole [Last Name] et al.</div>
+    <div class="meta">IEOR 142A · Spring 2026 · Cole Yap · Lily Salazar · Ian Reikes · Kai Chen · Andrew Vitt</div>
 </div>
 """, unsafe_allow_html=True)
 
